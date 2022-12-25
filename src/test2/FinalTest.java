@@ -21,7 +21,7 @@ class A3 {
 	final int b = 5;
 	A3() {
 		this.a = 30;
-		this.b = 50;	// The final field A3.b cannot be assigned
+		// this.b = 50;	// The final field A3.b cannot be assigned
 	}
 }
 

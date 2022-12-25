@@ -1,6 +1,11 @@
 package myaddressbookv2;
 
 public class Teacher extends Person {
+	public Teacher(String name, String phoneNo) {
+		super(name, phoneNo);
+		// TODO Auto-generated constructor stub
+	}
+
 	// 필드
 	private String teacherNo;
 
